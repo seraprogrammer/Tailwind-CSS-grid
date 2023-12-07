@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  },
+  "dependencies": {
+    "gsap": "^3.12.3",
+    "sheryjs": "^1.0.0-beta.0.1.7"
+  }
+}
